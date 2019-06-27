@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.osyunge:wl-itmuch-manager-pojo:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/com/osyunge/wl-itmuch-manager-pojo/1.0-SNAPSHOT/wl-itmuch-manager-pojo-1.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/wl-itmuch-manager/wl-itmuch-manager-pojo/wl-itmuch-manager-pojo-1.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/com/osyunge/wl-itmuch-manager-pojo/1.0-SNAPSHOT/wl-itmuch-manager-pojo-1.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/wl-itmuch-manager/wl-itmuch-manager-pojo/wl-itmuch-manager-pojo-1.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Maven/repository/com/osyunge/wl-itmuch-manager-pojo/1.0-SNAPSHOT/wl-itmuch-manager-pojo-1.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

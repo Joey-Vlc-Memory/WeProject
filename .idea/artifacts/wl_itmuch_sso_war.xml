@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wl-itmuch-sso:war">
+    <output-path>$PROJECT_DIR$/wl-itmuch-sso/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>wl-itmuch-sso</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="wl-itmuch-sso.war">
+      <element id="artifact" artifact-name="wl-itmuch-sso:war exploded" />
+    </root>
+  </artifact>
+</component>
